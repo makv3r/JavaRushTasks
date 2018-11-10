@@ -1,0 +1,12 @@
+# Gitignore file
+
+# Folders
+.idea/
+out/
+lib/
+
+# Files
+*.iml
+JavaRushPlugin.properties
+out.log*
+*.png
